@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Worked on developing **Windows Applications, Web Applications** and also worked on research projects for 3+ years.
-- ☁  Worked as a Salesforce Administrator and Developer for 1+ years.
+- 🔭 Developed **Windows Applications, Web Applications** using C#, .NET, ASP.NET Web Forms, ASP.NET MVC, MS SQL Server, React etc...
 - 🌱 Currently learning **Python, R, Data Science**
 
 ##
